@@ -19,8 +19,7 @@
 - My contest project:&nbsp; MCM/ICM&nbsp;;&nbsp;CCICS
 
 ## ⚡ Life Bits
-- Like photography, art.
-- Like digital products.
+- Like photography, art. &nbsp; Like digital products.
 - I love traveling and exploring the world.
 
 ## 📫 Connect
