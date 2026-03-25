@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hello, I'm Gary. 👋
+## 👨‍💻 About Me
+- 🏫 Huazhong University of Science and Technology(HUST) | Cyber Security | Undergraduate
+- 🔍 
+
+## 🛠️ Tech Stack
+- Language: C/C++ ; Python
+- System: Windows ; Linux
+- Core Subject: Computer Network ; Operating System
+
 
 <!--
 **SYHGARY/SYHGARY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
