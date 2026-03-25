@@ -1,25 +1,29 @@
-# Hello, I'm Gary. 👋
+## Hello, I'm Gary. 👋
+> Strive on creating.
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SYHGARY&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYHGARY&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="200"/></div>
+
 ## 👨‍💻 About Me
-- 🏫 Huazhong University of Science and Technology(HUST) | Cyber Security | Undergraduate
-- 🔍 
+- 🏫 Huazhong University of Science and Technology(HUST) &ensp;|&ensp; Cyber Security &ensp;|&ensp; Undergraduate
+- 🔍 Direction preference:&ensp; Software Development‌ &ensp;|&ensp; Cyber Security
 
 ## 🛠️ Tech Stack
-- Language: C/C++ ; Python
-- System: Windows ; Linux
-- Core Subject: Computer Network ; Operating System
+- Language:&nbsp;; C/C++ &nbsp;;&nbsp; Python
+- System:&nbsp; Windows &nbsp;;&nbsp; Linux
+- Core Subject:&nbsp; Algorithm &nbsp;;&nbsp; Computer Network &nbsp;;&nbsp; Operating System &nbsp;；&nbsp; Cryptography Science
 
+## 🚀 Projects
+- Gobang-Rogue:&nbsp; Gobang game graphical interface made by C++.
+- Secure-Xfer:&nbsp; TFTP server with encryption and compression.
+- My contest project:&nbsp; MCM/ICM&nbsp;;&nbsp;CCICS
 
-<!--
-**SYHGARY/SYHGARY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Life Bits
+- Like photography, art.
+- Like digital products.
+- I love traveling and exploring the world.
 
-Here are some ideas to get you started:
+## 📫 Connect
+- Github:&nbsp; https://github.com/SYHGARY
+- Personal Website:&nbsp; https://syhgary.github.io/GARYSONG-Website/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
